@@ -7,7 +7,6 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/wxplat/pom.xml" />
-        <option value="$PROJECT_DIR$/mybatis-generator/pom.xml" />
       </list>
     </option>
   </component>
