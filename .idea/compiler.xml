@@ -14,13 +14,12 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="mybatis-generator" target="1.7" />
-      <module name="wxplat" target="1.7" />
-      <module name="wxplat-api" target="1.7" />
-      <module name="wxplat-common" target="1.7" />
-      <module name="wxplat-dao" target="1.7" />
-      <module name="wxplat-service" target="1.7" />
-      <module name="wxplat-web" target="1.7" />
+      <module name="wxplat" target="1.8" />
+      <module name="wxplat-api" target="1.8" />
+      <module name="wxplat-common" target="1.8" />
+      <module name="wxplat-dao" target="1.8" />
+      <module name="wxplat-service" target="1.8" />
+      <module name="wxplat-web" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
