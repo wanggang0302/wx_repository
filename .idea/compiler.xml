@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="wxplat-api" />
+        <module name="wxplat-common" />
+        <module name="wxplat-dao" />
+        <module name="wxplat-service" />
+        <module name="wxplat-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="wxplat" target="1.8" />
+      <module name="wxplat-api" target="1.8" />
+      <module name="wxplat-common" target="1.8" />
+      <module name="wxplat-dao" target="1.8" />
+      <module name="wxplat-service" target="1.8" />
+      <module name="wxplat-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
